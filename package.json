@@ -1,0 +1,20 @@
+{
+  "name": "compress-image",
+  "version": "1.0.0",
+  "description": "testing imagemin npm",
+  "main": "OptimizeImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyansh Garg",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.79.0",
+    "imagemin": "^5.3.1",
+    "imagemin-pngquant": "^8.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-giflossy": "^5.1.10",
+    "imagemin-svgo": "^7.0.0"
+
+  }
+}
